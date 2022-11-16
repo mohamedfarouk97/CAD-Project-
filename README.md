@@ -3,7 +3,7 @@
 ## CAD project
 a simple console project to calculate the Voltage and Current of a simple circuit
 
-## Inputs
+# Inputs
  Nodes of the graph
  Branches of the graph
  
